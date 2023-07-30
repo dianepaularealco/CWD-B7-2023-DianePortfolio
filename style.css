@@ -1,0 +1,55 @@
+h1, h2, h3, h4, h5{
+    color: #fafdfd ;
+    font-weight: 200;
+    background-color: #388e3c;
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+h6, h7, span {
+    color: #388e3c;
+}
+
+.carousel-item img {
+    display: flex;
+    height: max-content;
+}
+
+.nav .orange2{
+    background-color: #388e3c ;
+}
+
+.slider-featured {
+    height: auto;
+}
+
+.slides-col img {
+    display: flex;
+    height:auto;
+    width: 100%;
+
+}
+
+.carousel-slider {
+    height: max-content;
+}
+
+.carousel-container {
+    height: max-content;
+}
+
+
+.carousel .indicators .indicator-item.active {
+    background-color: #388e3c ;
+}
+
+.parallax-contain {
+    height: max-content;
+}
+
+.footer-link:hover {
+    text-decoration-line: underline;
+}
+
+.footer-icon:hover {
+    font-size: medium;
+}
